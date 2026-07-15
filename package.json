@@ -1,0 +1,17 @@
+{
+  "name": "by evay",
+  "version": "1.0.0",
+  "description": "edited by evay (6g_7) https://discord.gg/HbtQ7hHRym  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.17.2",
+    "dotenv": "^16.4.7"
+  }
+}
