@@ -191,4 +191,4 @@ function getRandomPrize(type) {
     }
 }
 
-client.login("PUT_YOUR_BOT_TOKEN_HERE");
+client.login(process.env.TOKEN)
